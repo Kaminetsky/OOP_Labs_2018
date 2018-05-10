@@ -1,9 +1,9 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/Assets/AssetStoreTools*
+OOP_Labs_2018\Lab_1\Trajectometer/[Ll]ibrary/
+OOP_Labs_2018\Lab_1\Trajectometer/[Tt]emp/
+OOP_Labs_2018\Lab_1\Trajectometer/[Oo]bj/
+OOP_Labs_2018\Lab_1\Trajectometer/[Bb]uild/
+OOP_Labs_2018\Lab_1\Trajectometer/[Bb]uilds/
+OOP_Labs_2018\Lab_1\Trajectometer/Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
 /.vs/
